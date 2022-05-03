@@ -1,0 +1,14 @@
+Flask~=2.0.3
+numpy~=1.19.5
+gunicorn
+sklearn
+scikit-learn~=1.0.2
+tqdm
+Werkzeug~=2.1.2
+opendatasets~=0.1.22
+matplotlib~=3.5.1
+seaborn~=0.11.2
+pandas~=1.4.2
+scipy~=1.8.0
+waitress
+missingno~=0.5.1

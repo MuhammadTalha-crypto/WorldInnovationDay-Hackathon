@@ -1,0 +1,271 @@
+,Admin1,Admin2,Admin3,Pop_HNO _2017,IDPs_estimates_for_the_HNO_2017,Shelter_PiN_2017,Shelter_Severity_2017
+0,Damascus,Damascus,Damascus,1759800.0,651000.0,351960.0,3.0
+1,Aleppo,Jebel Saman,Jebel Saman,1333135.0,410900.0,266627.0,3.0
+2,Homs,Homs,Homs,721669.0,314358.0,288668.0,4.0
+3,Hama,As-Salamiyeh,Oqeirbat,20750.0,1260.0,2075.0,2.0
+4,Hama,Hama,Hama,647940.0,130515.0,64794.0,2.0
+5,Dar'a,Izra',Tassil,28500.0,7200.0,5700.0,3.0
+6,Lattakia,Lattakia,Lattakia,659070.0,350480.0,131814.0,3.0
+7,Rural Damascus,Rural Damascus,Jaramana,600000.0,300000.0,240000.0,4.0
+8,Idleb,Harim,Dana,342380.0,299710.0,68476.0,3.0
+9,Ar-Raqqa,Ar-Raqqa,Ar-Raqqa,334490.0,156219.0,133796.0,4.0
+10,Rural Damascus,Rural Damascus,Qudsiya,338600.0,125940.0,33860.0,2.0
+11,Lattakia,Al-Qardaha,Al-Qardaha,37310.0,2780.0,7462.0,3.0
+12,Rural Damascus,At Tall,At Tall,238650.0,196260.0,143190.0,5.0
+13,Deir-ez-Zor,Deir-ez-Zor,Deir-ez-Zor,142680.0,54320.0,28536.0,3.0
+14,Rural Damascus,Qatana,Qatana,314740.0,175780.0,125896.0,4.0
+15,Tartous,Sheikh Badr,Baramanet Elmashayekh,14380.0,3070.0,2876.0,3.0
+16,Rural Damascus,Al Qutayfah,Raheiba,35000.0,6872.0,7000.0,3.0
+17,Idleb,Idleb,Idleb,120520.0,49850.0,12052.0,2.0
+18,As-Sweida,Shahba,Ariqa,10530.0,2030.0,2106.0,3.0
+19,Al-Hasakeh,Al-Hasakeh,Al-Hasakeh,214010.0,112265.0,42802.0,3.0
+20,Aleppo,A'zaz,A'zaz,212975.0,166563.0,85190.0,4.0
+21,Rural Damascus,Rural Damascus,Babella,175800.0,27820.0,35160.0,3.0
+22,Tartous,Tartous,Tartous,251930.0,90170.0,100772.0,4.0
+23,Aleppo,Menbij,Menbij,204048.0,54729.0,20405.0,2.0
+24,Dar'a,Dar'a,Dar'a,174400.0,58650.0,69760.0,4.0
+25,Rural Damascus,Duma,Duma,195900.0,40720.0,39180.0,3.0
+26,Rural Damascus,Rural Damascus,Kisweh,204241.0,73135.0,122545.0,5.0
+27,Aleppo,Jebel Saman,Atareb,145350.0,61175.0,29070.0,3.0
+28,Rural Damascus,Rural Damascus,Kafr Batna,132040.0,52890.0,26408.0,3.0
+29,Al-Hasakeh,Quamishli,Quamishli,251490.0,61826.0,50298.0,3.0
+30,Rural Damascus,Duma,Harasta,207000.0,80570.0,41400.0,3.0
+31,Idleb,Al Ma'ra,Ma'arrat An Nu'man,148230.0,37450.0,14823.0,2.0
+32,Aleppo,Al Bab,Al Bab,60583.0,11139.0,6058.0,2.0
+33,Aleppo,Afrin,Afrin,143915.0,55575.0,28783.0,3.0
+34,Aleppo,A'zaz,Suran,19765.0,4640.0,1977.0,2.0
+35,Hama,As-Salamiyeh,As-Salamiyeh,136670.0,53430.0,27334.0,3.0
+36,Deir-ez-Zor,Abu Kamal,Hajin,81000.0,1600.0,8100.0,2.0
+37,Dar'a,Izra',Izra',56370.0,23493.0,11274.0,3.0
+38,As-Sweida,As-Sweida,As-Sweida,155120.0,26750.0,15512.0,2.0
+39,Deir-ez-Zor,Al Mayadin,Al Mayadin,132400.0,47200.0,26480.0,3.0
+40,Quneitra,Quneitra,Quneitra,11840.0,10200.0,2368.0,3.0
+41,Dar'a,As-Sanamayn,As-Sanamayn,114542.0,34205.0,22908.0,3.0
+42,Deir-ez-Zor,Abu Kamal,Abu Kamal,114350.0,17040.0,11435.0,2.0
+43,Dar'a,Dar'a,Mzeireb,109600.0,38735.0,21920.0,3.0
+44,Tartous,Tartous,Arwad,4400.0,60.0,880.0,3.0
+45,Idleb,Al Ma'ra,Kafr Nobol,89000.0,37980.0,8900.0,2.0
+46,Deir-ez-Zor,Al Mayadin,Ashara,113400.0,8440.0,11340.0,2.0
+47,Idleb,Harim,Salqin,101989.0,63799.0,20398.0,3.0
+48,Idleb,Ariha,Ariha,90240.0,20540.0,9024.0,2.0
+49,Rural Damascus,Duma,Ghizlaniyyeh,92500.0,50040.0,18500.0,3.0
+50,Idleb,Idleb,Maaret Tamsrin,100006.0,49325.0,10001.0,2.0
+51,Idleb,Idleb,Saraqab,83400.0,35590.0,8340.0,2.0
+52,Homs,Ar-Rastan,Talbiseh,112300.0,29250.0,44920.0,4.0
+53,Al-Hasakeh,Ras Al Ain,Ras Al Ain,69520.0,4820.0,27808.0,4.0
+54,Ar-Raqqa,Ar-Raqqa,Maadan,22000.0,1770.0,2200.0,2.0
+55,Hama,As-Suqaylabiyah,Madiq Castle,71410.0,8840.0,3571.0,1.0
+56,Aleppo,Jebel Saman,Daret Azza,82520.0,36838.0,16504.0,3.0
+57,Aleppo,Afrin,Sharan,23900.0,10490.0,4780.0,3.0
+58,Ar-Raqqa,Ath-Thawrah,Al-Thawrah,74000.0,4200.0,7400.0,2.0
+59,Al-Hasakeh,Al-Malikeyyeh,Al-Malikeyyeh,79470.0,5355.0,31788.0,4.0
+60,Aleppo,Jebel Saman,Tall Ed-daman,52832.0,6623.0,10566.0,3.0
+61,Deir-ez-Zor,Deir-ez-Zor,Kisreh,90990.0,12450.0,18198.0,3.0
+62,Idleb,Jisr-Ash-Shugur,Badama,56545.0,51860.0,11309.0,3.0
+63,Aleppo,Menbij,Al-Khafsa,94470.0,26060.0,9447.0,2.0
+64,Idleb,Al Ma'ra,Khan Shaykun,19390.0,9580.0,3878.0,3.0
+65,Homs,Ar-Rastan,Ar-Rastan,71890.0,15070.0,43134.0,5.0
+66,Homs,Homs,Kherbet Tin Noor,72805.0,3490.0,7281.0,2.0
+67,Idleb,Ariha,Ehsem,63000.0,12910.0,6300.0,2.0
+68,Hama,Hama,Hamra,25835.0,6980.0,5167.0,3.0
+69,Aleppo,Jebel Saman,Zarbah,46890.0,5470.0,9378.0,3.0
+70,Tartous,Banyas,Banyas,82900.0,19170.0,16580.0,3.0
+71,Deir-ez-Zor,Al Mayadin,Thiban,76900.0,15010.0,15380.0,3.0
+72,Hama,Masyaf,Masyaf,73500.0,12720.0,14700.0,3.0
+73,Rural Damascus,Rural Damascus,Arbin,51000.0,4570.0,5100.0,2.0
+74,Rural Damascus,Az-Zabdani,Madaya,51100.0,1800.0,10220.0,3.0
+75,Homs,Homs,Taldu,71100.0,4350.0,14220.0,3.0
+76,Hama,Muhradah,Muhradah,48115.0,8585.0,9623.0,3.0
+77,Rural Damascus,Darayya,Sahnaya,60000.0,37000.0,36000.0,5.0
+78,Deir-ez-Zor,Abu Kamal,Susat,75400.0,1190.0,7540.0,2.0
+79,Rural Damascus,Qatana,Sa'sa',62060.0,10310.0,12412.0,3.0
+80,Homs,Tall Kalakh,Nasra,57700.0,40910.0,11540.0,3.0
+81,Dar'a,Izra',Jasim,58000.0,24000.0,11600.0,3.0
+82,Dar'a,Izra',Nawa ,57600.0,22810.0,11520.0,3.0
+83,Rural Damascus,Az-Zabdani,Sarghaya,15500.0,900.0,1550.0,2.0
+84,Al-Hasakeh,Quamishli,Amuda,45260.0,14680.0,27156.0,5.0
+85,Deir-ez-Zor,Deir-ez-Zor,Tabni,67750.0,10280.0,13550.0,3.0
+86,Quneitra,Al Fiq,Fiq,2420.0,578.0,484.0,3.0
+87,Idleb,Al Ma'ra,Sanjar,60870.0,17500.0,6087.0,2.0
+88,Rural Damascus,Al Qutayfah,Jirud,30400.0,2140.0,6080.0,3.0
+89,Al-Hasakeh,Al-Hasakeh,Tal Tamer,50755.0,4690.0,20302.0,4.0
+90,Homs,Al-Qusayr,Al Quasir,56890.0,14360.0,22756.0,4.0
+91,Ar-Raqqa,Ar-Raqqa,Karama,37550.0,3455.0,7510.0,3.0
+92,Idleb,Harim,Harim,35355.0,21680.0,7071.0,3.0
+93,Rural Damascus,Qatana,Bait Jan,7460.0,0.0,1492.0,3.0
+94,Tartous,Safita,Safita,59620.0,19055.0,5962.0,2.0
+95,Quneitra,Quneitra,Khan Arnaba,44190.0,18025.0,17676.0,4.0
+96,Lattakia,Jablah,Jablah,64670.0,26055.0,25868.0,4.0
+97,Hama,Hama,Harbanifse,46520.0,1480.0,9304.0,3.0
+98,Aleppo,Ain Al Arab,Ain al Arab,94387.0,425.0,18877.0,3.0
+99,Dar'a,Dar'a,Da'el,52000.0,19500.0,5200.0,2.0
+100,Rural Damascus,Darayya,Markaz Darayya,43000.0,2520.0,4300.0,2.0
+101,Aleppo,As-Safira,Banan,10990.0,3065.0,2198.0,3.0
+102,Dar'a,Dar'a,Kherbet Ghazala,26700.0,13250.0,2670.0,2.0
+103,Deir-ez-Zor,Deir-ez-Zor,Khasham,62300.0,850.0,6230.0,2.0
+104,Hama,Hama,Suran,26625.0,4340.0,5325.0,3.0
+105,Aleppo,Menbij,Maskana,45370.0,10955.0,4537.0,2.0
+106,Dar'a,Izra',Sheikh Miskine,14480.0,2220.0,1448.0,2.0
+107,Idleb,Harim,Qourqeena,49200.0,22120.0,9840.0,3.0
+108,Rural Damascus,Anbk,Anbk,49430.0,24110.0,19772.0,4.0
+109,Idleb,Jisr-Ash-Shugur,Jisr-Ash-Shugur,49845.0,18380.0,9969.0,3.0
+110,Idleb,Idleb,Abul Thohur,49350.0,21330.0,19740.0,4.0
+111,Dar'a,Dar'a,Mseifra,39790.0,16840.0,7958.0,3.0
+112,Aleppo,Afrin,Raju,61015.0,22360.0,12203.0,3.0
+113,Al-Hasakeh,Al-Hasakeh,Shadadah,43750.0,6680.0,17500.0,4.0
+114,As-Sweida,Salkhad,Gharyeh,4600.0,330.0,460.0,2.0
+115,Deir-ez-Zor,Deir-ez-Zor,Basira,43570.0,3575.0,8714.0,3.0
+116,Aleppo,Jarablus,Jarablus,27780.0,11450.0,5556.0,3.0
+117,Dar'a,Izra',Hrak,46500.0,9790.0,9300.0,3.0
+118,Idleb,Jisr-Ash-Shugur,Darkosh,49300.0,23495.0,9860.0,3.0
+119,Aleppo,Afrin,Jandairis,47070.0,16710.0,9414.0,3.0
+120,Ar-Raqqa,Ath-Thawrah,Mansura,51700.0,11992.0,10340.0,3.0
+121,Aleppo,Al Bab,Dayr Hafir,10000.0,0.0,0.0,0.0
+122,As-Sweida,Shahba,Shahba,34270.0,9500.0,1714.0,1.0
+123,Rural Damascus,Anbk,Deir Attiyeh,45400.0,14650.0,9080.0,3.0
+124,Rural Damascus,Al Qutayfah,Al Qutayfah,48300.0,4960.0,4830.0,2.0
+125,Quneitra,Quneitra,Al-Khashniyyeh,37195.0,18683.0,7439.0,3.0
+126,Lattakia,Jablah,Qteilbiyyeh,21250.0,1260.0,4250.0,3.0
+127,Hama,Masyaf,Oj,48110.0,10400.0,28866.0,5.0
+128,Dar'a,As-Sanamayn,Ghabagheb,44880.0,14300.0,8976.0,3.0
+129,Aleppo,A'zaz,Nabul,40540.0,845.0,4054.0,2.0
+130,Rural Damascus,Az-Zabdani,Ein Elfijeh,40900.0,9520.0,16360.0,4.0
+131,Idleb,Al Ma'ra,Heish,48790.0,25380.0,9758.0,3.0
+132,Dar'a,Dar'a,Jizeh,32160.0,21335.0,6432.0,3.0
+133,Al-Hasakeh,Ras Al Ain,Darbasiyah,40120.0,6350.0,16048.0,4.0
+134,Aleppo,Menbij,Abu Qalqal,43170.0,9844.0,4317.0,2.0
+135,Homs,Tall Kalakh,Hawash,40663.0,25225.0,16265.0,4.0
+136,Dar'a,Dar'a,Busra Esh-Sham,37430.0,14690.0,3743.0,2.0
+137,Homs,Al Makhrim,Al Makhrim,45450.0,2680.0,9090.0,3.0
+138,Aleppo,Jebel Saman,Haritan,23630.0,5925.0,4726.0,3.0
+139,Idleb,Al Ma'ra,Tamanaah,37360.0,12250.0,7472.0,3.0
+140,Idleb,Idleb,Teftnaz,27700.0,12640.0,5540.0,3.0
+141,Lattakia,Al-Qardaha,Jobet Berghal,4430.0,90.0,886.0,3.0
+142,Idleb,Jisr-Ash-Shugur,Janudiyeh,35810.0,23160.0,7162.0,3.0
+143,Aleppo,As-Safira,As-Safira,25890.0,105.0,2589.0,2.0
+144,Hama,As-Salamiyeh,As-Saan,9700.0,1280.0,970.0,2.0
+145,Idleb,Harim,Armanaz,39000.0,13130.0,3900.0,2.0
+146,Tartous,Dreikish,Dreikish,41160.0,14200.0,16464.0,4.0
+147,Dar'a,Dar'a,Ash-Shajara,34950.0,7310.0,6990.0,3.0
+148,Tartous,Tartous,Soda Khawabi,37100.0,17310.0,7420.0,3.0
+149,As-Sweida,Shahba,Shaqa,20695.0,3530.0,2070.0,2.0
+150,Rural Damascus,Duma,Dhameer,36900.0,15820.0,14760.0,4.0
+151,Homs,Homs,Raqama,21890.0,6340.0,4378.0,3.0
+152,Rural Damascus,Yabroud,Yabroud,32090.0,15600.0,12836.0,4.0
+153,Lattakia,Lattakia,Hanadi,13750.0,710.0,1375.0,2.0
+154,Hama,Muhradah,Karnaz,7440.0,2280.0,1488.0,3.0
+155,Deir-ez-Zor,Deir-ez-Zor,Sur,38450.0,2080.0,3845.0,2.0
+156,Ar-Raqqa,Ath-Thawrah,Jurneyyeh,26540.0,6200.0,2654.0,2.0
+157,Al-Hasakeh,Quamishli,Tal Hmis,28170.0,0.0,11268.0,4.0
+158,Rural Damascus,Az-Zabdani,Az-Zabdani,34190.0,14360.0,20514.0,5.0
+159,Hama,Masyaf,Wadi El-oyoun,26700.0,8160.0,10680.0,4.0
+160,Al-Hasakeh,Al-Hasakeh,Markada,35700.0,8335.0,7140.0,3.0
+161,Hama,Masyaf,Jeb Ramleh,36500.0,50.0,3650.0,2.0
+162,Aleppo,Al Bab,Tadaf,21001.0,1908.0,2100.0,2.0
+163,Rural Damascus,Duma,Nashabiyeh,20190.0,6660.0,4038.0,3.0
+164,Al-Hasakeh,Al-Malikeyyeh,Jawadiyah,29430.0,535.0,11772.0,4.0
+165,Idleb,Ariha,Mhambal,27370.0,6010.0,2737.0,2.0
+166,Deir-ez-Zor,Deir-ez-Zor,Muhasan,29940.0,5720.0,2994.0,2.0
+167,Hama,As-Suqaylabiyah,As-Suqaylabiyah,35450.0,2100.0,7090.0,3.0
+168,Tartous,Sheikh Badr,Sheikh Badr,29590.0,10610.0,5918.0,3.0
+169,Aleppo,Jebel Saman,Hadher,900.0,0.0,90.0,2.0
+170,Aleppo,Ain Al Arab,Sarin,23154.0,680.0,4631.0,3.0
+171,Idleb,Idleb,Bennsh,26500.0,2180.0,2650.0,2.0
+172,Ar-Raqqa,Tell Abiad,Tell Abiad,29930.0,3075.0,11972.0,4.0
+173,Homs,Homs,Ein Elniser,31560.0,3480.0,6312.0,3.0
+174,Hama,As-Suqaylabiyah,Ziyara,13310.0,60.0,1331.0,2.0
+175,Ar-Raqqa,Ar-Raqqa,Sabka,26635.0,1970.0,2664.0,2.0
+176,Aleppo,Al Bab,A'rima,29390.0,6638.0,5878.0,3.0
+177,Ar-Raqqa,Tell Abiad,Ein Issa,17732.0,1430.0,3546.0,3.0
+178,Homs,Homs,Qabu,39100.0,2250.0,3910.0,2.0
+179,Aleppo,A'zaz,Aghtrin,27910.0,12960.0,11164.0,4.0
+180,Deir-ez-Zor,Abu Kamal,Jalaa,28800.0,2160.0,2880.0,2.0
+181,Homs,Tall Kalakh,Tall Kalakh,27830.0,2160.0,2783.0,2.0
+182,Idleb,Idleb,Sarmin,9500.0,4500.0,950.0,2.0
+183,Aleppo,Ain Al Arab,Lower Shyookh,35180.0,0.0,3518.0,2.0
+184,Aleppo,Al Bab,Rasm Haram El-Imam,7245.0,735.0,725.0,2.0
+185,Tartous,Banyas,Hamam Wasil,7160.0,930.0,1432.0,3.0
+186,Idleb,Harim,Kafr Takharim,20250.0,16580.0,8100.0,4.0
+187,Homs,Al Makhrim,Jeb Ej-Jarrah,21685.0,1520.0,2169.0,2.0
+188,Tartous,Dreikish,Jneinet Raslan,7616.0,510.0,1523.0,3.0
+189,Rural Damascus,Duma,Haran Al'awameed,20760.0,3410.0,2076.0,2.0
+190,Al-Hasakeh,Quamishli,Qahtaniyyeh,26290.0,1675.0,5258.0,3.0
+191,Hama,Masyaf,Ein Halaqim,24400.0,5450.0,2440.0,2.0
+192,Aleppo,Afrin,Bulbul,21060.0,9250.0,4212.0,3.0
+193,Homs,Homs,Hasyaa,20740.0,5380.0,8296.0,4.0
+194,As-Sweida,As-Sweida,Mazra'a,17110.0,3450.0,1711.0,2.0
+195,Al-Hasakeh,Al-Malikeyyeh,Ya'robiyah,23120.0,885.0,4624.0,3.0
+196,Aleppo,A'zaz,Mare',14139.0,1175.0,2828.0,3.0
+197,Aleppo,Afrin,Ma'btali,21436.0,7740.0,2144.0,2.0
+198,Hama,Muhradah,Kafr Zeita,18820.0,1580.0,1882.0,2.0
+199,Aleppo,As-Safira,Hajeb,7110.0,1705.0,356.0,1.0
+200,Al-Hasakeh,Al-Hasakeh,Areesheh,19810.0,680.0,3962.0,3.0
+201,Homs,Homs,Mahin,0.0,0.0,0.0,0.0
+202,Homs,Homs,Sadad,5600.0,20.0,560.0,2.0
+203,Al-Hasakeh,Al-Hasakeh,Hole,14059.0,2975.0,2812.0,3.0
+204,Lattakia,Lattakia,Ein El-Bayda,9320.0,1310.0,932.0,2.0
+205,As-Sweida,Salkhad,Salkhad,24180.0,2680.0,2418.0,2.0
+206,Hama,As-Suqaylabiyah,Tell Salhib,16960.0,30.0,1696.0,2.0
+207,Rural Damascus,Darayya,Hajar Aswad,4500.0,320.0,900.0,3.0
+208,Rural Damascus,Al Qutayfah,Ma'loula,10800.0,190.0,540.0,1.0
+209,Lattakia,Al-Qardaha,Fakhura,14180.0,510.0,1418.0,2.0
+210,Tartous,Tartous,Hameidiyyeh,20190.0,8360.0,4038.0,3.0
+211,Tartous,Banyas,Qadmous,20220.0,3850.0,4044.0,3.0
+212,Aleppo,Jarablus,Ghandorah,27403.0,14393.0,5481.0,3.0
+213,Aleppo,A'zaz,Tall Refaat,13630.0,1258.0,2726.0,3.0
+214,Aleppo,Al Bab,Ar-Ra'ee,20031.0,6615.0,4006.0,3.0
+215,Ar-Raqqa,Tell Abiad,Suluk,34520.0,3535.0,6904.0,3.0
+216,Tartous,Safita,Mashta Elhiu,16710.0,9430.0,3342.0,3.0
+217,Homs,Homs,Farqalas,16330.0,4930.0,1633.0,2.0
+218,Rural Damascus,Rural Damascus,Maliha,0.0,0.0,0.0,3.0
+219,Tartous,Safita,Ras El-Khashufeh,16380.0,1470.0,819.0,1.0
+220,Hama,As-Suqaylabiyah,Shat-ha,15040.0,0.0,1504.0,2.0
+221,Rural Damascus,Yabroud,Esal El-Ward,4550.0,390.0,910.0,3.0
+222,Rural Damascus,Az-Zabdani,Dimas,17710.0,4110.0,7084.0,4.0
+223,As-Sweida,Salkhad,Thibeen,7500.0,580.0,750.0,2.0
+224,Tartous,Safita,Sisniyyeh,17370.0,2300.0,3474.0,3.0
+225,Tartous,Tartous,Kareemeh,11560.0,1040.0,2312.0,3.0
+226,Hama,As-Salamiyeh,Eastern Bari,3970.0,470.0,397.0,2.0
+227,Tartous,Tartous,Kherbet Elma'aza,16770.0,2160.0,1677.0,2.0
+228,Tartous,Tartous,Safsafa,17160.0,1540.0,3432.0,3.0
+229,Dar'a,As-Sanamayn,Masmiyyeh,12120.0,1600.0,1212.0,2.0
+230,Hama,As-Salamiyeh,Saboura,4010.0,1340.0,401.0,2.0
+231,Lattakia,Al-Haffa,Kansaba,600.0,0.0,60.0,2.0
+232,Lattakia,Jablah,Dalyeh,9570.0,360.0,1914.0,3.0
+233,Aleppo,Al Bab,Eastern Kwaires ,0.0,0.0,0.0,2.0
+234,Tartous,Banyas,Anaza,15300.0,2000.0,1530.0,2.0
+235,Aleppo,As-Safira,Khanaser,540.0,0.0,54.0,2.0
+236,Homs,Tall Kalakh,Hadideh,41567.0,0.0,2078.0,1.0
+237,Tartous,Sheikh Badr,Qumseyyeh,13460.0,3190.0,1346.0,2.0
+238,Rural Damascus,At Tall,Rankus,9870.0,60.0,987.0,2.0
+239,Tartous,Dreikish,Dweir Raslan,11060.0,2240.0,2212.0,3.0
+240,Homs,Tadmor,Sokhneh,13870.0,860.0,1387.0,2.0
+241,Aleppo,Afrin,Sheikh El-Hadid,12830.0,5080.0,2566.0,3.0
+242,Homs,Homs,Qaryatein,800.0,0.0,0.0,0.0
+243,Lattakia,Al-Haffa,Al-Haffa,10120.0,830.0,2024.0,3.0
+244,As-Sweida,As-Sweida,Mashnaf,12610.0,90.0,1261.0,2.0
+245,Homs,Tadmor,Tadmor,3180.0,70.0,318.0,2.0
+246,Lattakia,Jablah,Ein Elsharqiyeh,11240.0,640.0,1124.0,2.0
+247,As-Sweida,Salkhad,Milh,11880.0,360.0,1188.0,2.0
+248,Tartous,Banyas,Rawda,10290.0,1020.0,2058.0,3.0
+249,Lattakia,Lattakia,Qastal Maaf,9210.0,1240.0,921.0,2.0
+250,Tartous,Safita,Sibbeh,6000.0,520.0,600.0,2.0
+251,As-Sweida,Shahba,Little Sura,11250.0,360.0,1125.0,2.0
+252,As-Sweida,Salkhad,Qarayya,10945.0,2110.0,547.0,1.0
+253,Rural Damascus,At Tall,Sidnaya,10050.0,790.0,1005.0,2.0
+254,Homs,Homs,Shin,28101.0,0.0,2810.0,2.0
+255,Rural Damascus,Duma,Sabe Byar,78850.0,78800.0,15770.0,3.0
+256,Lattakia,Al-Haffa,Salanfa,3950.0,160.0,790.0,3.0
+257,Lattakia,Jablah,Ein Shaqaq,9700.0,520.0,970.0,2.0
+258,Lattakia,Jablah,Beit Yashout,8720.0,360.0,1744.0,3.0
+259,Lattakia,Lattakia,Rabee'a,1300.0,0.0,0.0,0.0
+260,Al-Hasakeh,Al-Hasakeh,Be'r Al-Hulo Al-Wardeyyeh,2990.0,200.0,1196.0,4.0
+261,Tartous,Dreikish,Hamin,6690.0,440.0,0.0,0.0
+262,Tartous,Banyas,Taleen,6160.0,1160.0,1232.0,3.0
+263,Lattakia,Al-Haffa,Mzair'a,6690.0,170.0,669.0,2.0
+264,Tartous,Safita,Bariqiyeh,6100.0,730.0,1220.0,3.0
+265,Lattakia,Al-Qardaha,Harf Elmseitra,4950.0,400.0,990.0,3.0
+266,Tartous,Banyas,Tawahin,5980.0,1030.0,2392.0,4.0
+267,Lattakia,Lattakia,Bahlawaniyeh,4860.0,120.0,972.0,3.0
+268,Lattakia,Al-Haffa,Ein Et-teeneh,3800.0,120.0,380.0,2.0
+269,Lattakia,Lattakia,Kasab,830.0,380.0,166.0,3.0
